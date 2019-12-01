@@ -10,7 +10,7 @@ At the back end, once the user enters the information in the form, the backend s
 the information with time stamp of the entry.
 This  trigger an email and an SMS to the host informing him of the details of the visitor.
 There should also be a provision of the checkout time which the guest can provide once he
-leaves. This  trigger an email to the guest with the complete form which should include:
+leaves. This  trigger an email to the guest with the complete form which should include visitor details.
 
 Once user checks in and enters his details in the application, host should get an email and
 an SMS stating the visitor details.
@@ -22,6 +22,10 @@ stating his visit details :
 4. Check-out time,
 5. Host name
 6. Address visited.
+# Dependencies/Libraries Used
+*Java Mail API
+*Firebase('com.google.firebase:firebase-analytics:17.2.0')
+*SMS Retriever('com.google.gms.google-services')
 
 
 <img src ="https://user-images.githubusercontent.com/31797048/69909199-5b80db80-141d-11ea-9f8e-a86702732f76.jpg"
