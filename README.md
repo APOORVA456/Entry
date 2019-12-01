@@ -1,6 +1,6 @@
 # Entry Management Software
  
-**__**
+**_______________________________________________________________________________________________**
 
 Given the visitors that we have in office and outside, there is a need to for an entry management
 software.
@@ -22,3 +22,7 @@ stating his visit details :
 4. Check-out time,
 5. Host name
 6. Address visited.
+
+
+<img src ="https://user-images.githubusercontent.com/31797048/69909199-5b80db80-141d-11ea-9f8e-a86702732f76.jpg"
+  width="200" height="400"><img src ="https://user-images.githubusercontent.com/31797048/69909103-97b33c80-141b-11ea-83ac-ea9e942c2ffd.jpg"  width="200" height="400"><img src ="https://user-images.githubusercontent.com/31797048/69909098-88cc8a00-141b-11ea-861b-c86cd3b499aa.png"  width="200" height="400"><img src ="https://user-images.githubusercontent.com/31797048/69909164-deedfd00-141c-11ea-99a9-a182d55aa937.jpg"  width="200" height="400"><img src ="https://user-images.githubusercontent.com/31797048/69909186-37bd9580-141d-11ea-8799-206441f567c0.jpg"  width="200" height="400">
