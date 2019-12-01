@@ -24,7 +24,9 @@ stating his visit details :
 6. Address visited.
 # Dependencies/Libraries Used
 **Java Mail API**
+#
 **Firebase('com.google.firebase:firebase-analytics:17.2.0')**
+#
 **SMS Retriever('com.google.gms.google-services')**
 
 
