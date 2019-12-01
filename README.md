@@ -23,9 +23,9 @@ stating his visit details :
 5. Host name
 6. Address visited.
 # Dependencies/Libraries Used
-*Java Mail API
-*Firebase('com.google.firebase:firebase-analytics:17.2.0')
-*SMS Retriever('com.google.gms.google-services')
+**Java Mail API**
+**Firebase('com.google.firebase:firebase-analytics:17.2.0')**
+**SMS Retriever('com.google.gms.google-services')**
 
 
 <img src ="https://user-images.githubusercontent.com/31797048/69909199-5b80db80-141d-11ea-9f8e-a86702732f76.jpg"
